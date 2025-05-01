@@ -97,7 +97,7 @@ create_table --> fetch_book_data --> insert_book_data --> export_data_to_csv
 ## Future Changes/Additions
 - **Expand Data Sources & Price Comparison** – Integrate additional websites for scraping book data and create visualizations to compare prices for the same books across different platforms.
 - **Advanced Visualizations** – Add price trend analysis and category-based insights in Power BI.
-- **Machine Learning for Pricing Predictions** Incorporate machine learning models (e.g., regression, time series forecasting) to predict future book prices or category trends based on historical data.
+- **Machine Learning for Pricing Predictions** - Incorporate machine learning models (e.g., regression, time series forecasting) to predict future book prices or category trends based on historical data.
 
 
 
